@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Abhishek Singh
-- 👀 I’m interested in different Projects in Java to explore more of its framework as well as various tools and technology.
-- 🌱 I’m currently learning Java as Backend Technolgy along with Angular and TypeScript.
-- 💞️ I’m looking to collaborate on open source project related to java and angular.
-- 📫 How to reach me at my email->abhi2031999@gmail.com 
+- 👀 I’m interested in different Projects based on Java to explore more of its framework as well as various tools and technology.
+- 🌱 I’m currently learning Java as Backend Technolgy along with Angular and TypeScript for Frontend Technology.
+- 💞️ I’m looking to collaborate with the people of the same Technical stack in practice also like to contribute towards open source project related to java and angular.
+- 📫 You  can reach me out at my email->abhi2031999@gmail.com 
 - 😄 Pronouns: Enthusiastic Java Developer
 - ⚡ Fun fact:  open to learn,earn and lead.
 
